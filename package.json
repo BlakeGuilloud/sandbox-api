@@ -1,0 +1,24 @@
+{
+  "name": "sandbox-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lib/index",
+    "dev": "nodemon lib/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "mongoose": "^5.2.7",
+    "paperplane": "^1.2.2",
+    "ramda": "^0.25.0"
+  }
+}

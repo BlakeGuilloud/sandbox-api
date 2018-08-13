@@ -1,0 +1,8 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "semi": ["error", "never"],
+    "implicit-arrow-linebreak": 0,
+    "no-console": 0
+  }
+}
