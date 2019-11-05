@@ -17,7 +17,7 @@
     "nodemon": "^1.18.3"
   },
   "dependencies": {
-    "mongoose": "^5.2.7",
+    "mongoose": "^5.7.5",
     "paperplane": "^1.2.2",
     "ramda": "^0.25.0"
   }
